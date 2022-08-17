@@ -32,12 +32,14 @@ h2 {font-size: 2.441rem;
 
 h3 {font-size: 1.953rem;}
 
-h4 {font-size: 1.563rem;}
+h4 {font-size: 1.563rem;
+    margin-bottom: 8rem;
+}
 
 h5 {
     font-size: 1.25rem;
     margin-bottom: 3rem;
-    margin-top: 1rem;
+    margin-top: 8rem;
 }
 
 small, .text_small {font-size: 0.8rem;}
@@ -68,4 +70,8 @@ small, .text_small {font-size: 0.8rem;}
     color: #F5F7F8;
     padding-top: 2rem;
     padding-bottom: 1rem;
+}
+.navbar-toggler {
+    color: #24383F;
+    opacity: 100%;
 }
