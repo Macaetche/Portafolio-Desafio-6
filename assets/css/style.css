@@ -60,14 +60,14 @@ small, .text_small {font-size: 0.8rem;}
     color: #000000;
 }
 .card-link {
-    color: #24383F;
+    color: #0252CD;
 }
 .card {
     margin-bottom: 2rem;
 }
 .footer{
-    background-color: #24383F;
-    color: #F5F7F8;
+    background-color: #0252CD;
+    color: #ffffff;
     padding-top: 2rem;
     padding-bottom: 1rem;
 }
