@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 {
-  margin-top: 0.5;
+  margin-top: 1rem;
   margin-bottom: 2rem;
   font-size: 3.052rem;
 }
@@ -38,7 +38,6 @@ h4 {font-size: 1.563rem;
 
 h5 {
     font-size: 1.25rem;
-    margin-bottom: 3rem;
     margin-top: 8rem;
 }
 
@@ -52,6 +51,7 @@ small, .text_small {font-size: 0.8rem;}
     background-repeat: no-repeat;
     background-size: cover;
     color: #F5F7F8;
+    padding-bottom: 8rem;
 }
 .Proyectos {
     background-color: #F5F7F8;
@@ -74,4 +74,21 @@ small, .text_small {font-size: 0.8rem;}
 .navbar-toggler {
     color: #24383F;
     opacity: 100%;
+}
+.btn-light {
+    color: #0252CD;
+}
+.bg-light {
+    background-color: #ffffff;
+}
+.card_herramienta {
+    padding: 1rem;
+
+}
+.card-title{
+    margin-top: .5rem;
+}
+.herramientas{
+    margin-top: 4rem;
+    margin-bottom: 4rem;
 }
