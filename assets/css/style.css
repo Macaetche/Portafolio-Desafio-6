@@ -47,7 +47,7 @@ small, .text_small {font-size: 0.8rem;}
     color: black;
 }
 .cabecera {
-    background-image: url(/assets/imgs/bg_cabecera.png);
+    background-color: #0252CD;
     background-repeat: no-repeat;
     background-size: cover;
     color: #F5F7F8;
