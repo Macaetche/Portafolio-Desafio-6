@@ -47,9 +47,11 @@ small, .text_small {font-size: 0.8rem;}
     color: black;
 }
 .cabecera {
-    background-color: #0252CD;
+    background-image: url(assets/imgs/bg_cabecera.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
+    background-color: #0252CD;
     color: #F5F7F8;
     padding-bottom: 8rem;
 }
@@ -58,12 +60,6 @@ small, .text_small {font-size: 0.8rem;}
 }
 .nav-link{
     color: #000000;
-}
-.card-link {
-    color: #0252CD;
-}
-.card {
-    margin-bottom: 2rem;
 }
 .footer{
     background-color: #0252CD;
@@ -81,14 +77,28 @@ small, .text_small {font-size: 0.8rem;}
 .bg-light {
     background-color: #ffffff;
 }
-.card_herramienta {
-    padding: 1rem;
-
-}
 .card-title{
     margin-top: .5rem;
+    text-align: left;
+}
+.card {
+    margin-bottom: 2rem;
+    border-color: #ffffff;
+}
+.card-link {
+    color: #212529;
+}
+.card-text {
+    text-align: left;
+}
+.card-body {
+    text-align: left;
 }
 .herramientas{
     margin-top: 4rem;
     margin-bottom: 4rem;
+}
+.card_herramienta {
+    padding: 1rem;
+
 }
