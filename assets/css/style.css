@@ -38,7 +38,6 @@ h4 {font-size: 1.563rem;
 
 h5 {
     font-size: 1.25rem;
-    margin-top: 8rem;
 }
 
 small, .text_small {font-size: 0.8rem;}
@@ -51,6 +50,7 @@ small, .text_small {font-size: 0.8rem;}
     background-position: center;
     background-color: #0252CD;
     color: #F5F7F8;
+    padding-top: 4rem;
 }
 .cabecera-secciones {
     background-size: cover;
